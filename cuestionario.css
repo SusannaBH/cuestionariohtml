@@ -1,0 +1,25 @@
+.titulo {
+	background-color:orange;
+	color: white;
+    font-family: monospace;
+	padding: 25px;
+}
+
+.formatocuerpo {
+    font: bold 90% monospace
+}
+
+.recuadros {
+    font-family: Trebuchet MS;
+	background-color: purple;
+	font-weight: bold;
+	color: orange
+}
+
+.botonaceptar {
+    padding: 12px;
+    font-family: Trebuchet MS;
+	background-color: orange;
+	color: purple;
+	font-size: 2em
+}
